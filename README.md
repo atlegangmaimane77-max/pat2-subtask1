@@ -18,3 +18,10 @@ C	-.-.
 Word Example
 HELLO → .... . .-.. .-.. ---
 SOS → ... --- ...
+Importance of Morse Code
+
+Morse code played an important role in communication history. It was especially useful during emergencies because messages could still be transmitted even when voice communication failed. Today, Morse code is still used by amateur radio operators and in emergency signalling.
+
+Conclusion
+
+Morse code is a simple but effective communication system that uses dots and dashes to send messages. Although modern technology has replaced most of its uses, it remains an important part of communication history.
