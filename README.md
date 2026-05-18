@@ -1,8 +1,12 @@
 # pat2-subtask1
+Introduction to Morse Code
+
 Morse code is a method of communication that uses a series of dots (.) and dashes (-) to represent letters, numbers, and symbols. It was mainly used in telegraph systems to send messages over long distances before modern communication methods were developed.
+
 History of Morse Code
 
 Morse code was created in the 1830s and 1840s by Samuel Morse and Alfred Vail. It was developed to help people send messages quickly through electrical telegraph systems. Morse code became widely used in military communication, aviation, and maritime communication because it was reliable and easy to transmit over long distances.
+
 How Morse Code Works
 
 Each letter and number is represented by a unique combination of dots and dashes.
@@ -18,6 +22,13 @@ C	-.-.
 Word Example
 HELLO → .... . .-.. .-.. ---
 SOS → ... --- ...
+Explanation
+A dot represents a short signal.
+A dash represents a longer signal.
+Spaces are used to separate letters and words.
+
+Morse code can be sent using sound, light, or electrical signals.
+
 Importance of Morse Code
 
 Morse code played an important role in communication history. It was especially useful during emergencies because messages could still be transmitted even when voice communication failed. Today, Morse code is still used by amateur radio operators and in emergency signalling.
